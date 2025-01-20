@@ -621,6 +621,10 @@ video {
   margin-bottom: 2.5rem;
 }
 
+.mb-20 {
+  margin-bottom: 5rem;
+}
+
 .block {
   display: block;
 }
@@ -635,6 +639,11 @@ video {
 
 .h-full {
   height: 100%;
+}
+
+.h-fit {
+  height: -moz-fit-content;
+  height: fit-content;
 }
 
 .w-3\.5 {
@@ -770,6 +779,10 @@ video {
 
 .font-normal {
   font-weight: 400;
+}
+
+.italic {
+  font-style: italic;
 }
 
 .text-gray-500 {
