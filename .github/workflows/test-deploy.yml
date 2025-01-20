@@ -1,0 +1,27 @@
+name: Deploy to GitHub Pages Test
+
+on:
+  push:
+    branches:
+      - yampi # Cambia esto si usas otra branch como fuente
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js para el tailwindcss
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install Dependencies (tailwindcss dependencias)
+        run: npm install
+
+      #   - name: Build Project (opcional para proyectos compilados)
+      #     run: npm run build
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v1
