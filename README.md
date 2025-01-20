@@ -131,6 +131,10 @@ Repositorio para aprender HTML desde cero con teoría, ejercicios prácticos y e
 
 ---
 
+## Workflow o cosmovisión del proyecto de como lo veo
+
+![Diagrama del github](./workflow.png)
+
 ## 🖼️ Vista Previa
 
 ![Vista Previa](https://i.imgur.com/T8uKLgZ.png)
