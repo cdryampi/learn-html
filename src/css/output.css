@@ -592,8 +592,20 @@ video {
   position: fixed;
 }
 
+.absolute {
+  position: absolute;
+}
+
+.relative {
+  position: relative;
+}
+
 .bottom-0 {
   bottom: 0px;
+}
+
+.top-5 {
+  top: 1.25rem;
 }
 
 .mx-auto {
@@ -623,6 +635,14 @@ video {
 
 .mb-20 {
   margin-bottom: 5rem;
+}
+
+.mb-5 {
+  margin-bottom: 1.25rem;
+}
+
+.ml-32 {
+  margin-left: 8rem;
 }
 
 .block {
@@ -678,6 +698,14 @@ video {
 
 .list-inside {
   list-style-position: inside;
+}
+
+.list-none {
+  list-style-type: none;
+}
+
+.list-image-\[url\(\.\/movie\.png\)\] {
+  list-style-image: url(./movie.png);
 }
 
 .flex-row {
