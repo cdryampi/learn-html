@@ -704,6 +704,10 @@ video {
   list-style-type: none;
 }
 
+.list-decimal {
+  list-style-type: decimal;
+}
+
 .list-image-\[url\(\.\/movie\.png\)\] {
   list-style-image: url(./movie.png);
 }
