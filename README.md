@@ -12,12 +12,6 @@ Repositorio para aprender HTML desde cero con teoría, ejercicios prácticos y e
 
 ---
 
-## 🎨 Hoja de Estilos
-
-Usamos **[Water.css](https://watercss.kognise.dev/)** para una experiencia visual sencilla y elegante.
-
----
-
 ## ✏️ Ejercicios
 
 - [Ejercicios básicos en Auladiv](https://www.auladiv.com/ejercicios/html-basico/)
@@ -139,7 +133,7 @@ Usamos **[Water.css](https://watercss.kognise.dev/)** para una experiencia visua
 
 ## 🖼️ Vista Previa
 
-![Vista Previa](https://imgur.com/a/QeFpMoM)
+![Vista Previa](https://i.imgur.com/T8uKLgZ.png)
 
 ## 🔧 Tecnologías Usadas
 
