@@ -653,6 +653,10 @@ video {
   display: flex;
 }
 
+.table {
+  display: table;
+}
+
 .h-3\.5 {
   height: 0.875rem;
 }
@@ -688,6 +692,10 @@ video {
 
 .flex-shrink-0 {
   flex-shrink: 0;
+}
+
+.table-auto {
+  table-layout: auto;
 }
 
 .border-spacing-5 {
@@ -808,6 +816,11 @@ video {
 .text-8xl {
   font-size: 6rem;
   line-height: 1;
+}
+
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
 }
 
 .font-extrabold {
